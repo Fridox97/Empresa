@@ -1,4 +1,4 @@
 
-public class liderTecnico {
+public class liderTecnico extends ingSoftware{
 
 }

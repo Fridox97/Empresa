@@ -1,4 +1,4 @@
 
-public class Tecnico {
+public class Tecnico extends Empleado{
 
 }

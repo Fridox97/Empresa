@@ -1,4 +1,4 @@
 
-public class ingSoftware {
+public class ingSoftware extends Tecnico{
 
 }

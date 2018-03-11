@@ -1,4 +1,4 @@
 
-public class liderNegocio {
+public class liderNegocio extends contador{
 
 }
